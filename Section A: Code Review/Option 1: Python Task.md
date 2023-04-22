@@ -30,8 +30,7 @@ Python code should be written according to the PEP8 style guide (please see http
 There are a few style guidelines you did not adhere to.
 
 1. Try working on your indentation, as the inconsistent indentation (starting from line 2) will in fact raise an
-IndentationError. In this code specifically, the def line for the groupAnagrams function should be indented under the class line.
-The body of the for loop and the if-else statement should each be indented under the for loop line.
+IndentationError. Based on PEP8 guidelines, the code indentation should be 4 spaces for each level of logical indentation.  In this code specifically, the def statement (line 2) and the subsequent statements within the groupAnagrams function should be indented with 4 spaces (a tab). The same logic applies for body of the for loop (inside groupAnagrams) as well the if and else statements (inside the for loop) that should also be indented with the appropriate additional 4 space indents.   
 
 2. Remember to consider when to use whitespaces. Typically, two blank lines are used to separate the end of a function or class definition from the next line of code. Therefore, after the groupAnagrams function is closed, you should have two blank lines before the ob1 = Solution() line.
 

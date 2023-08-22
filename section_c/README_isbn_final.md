@@ -59,5 +59,4 @@ https://dev.to/bellatrix/worst-case-and-space-complexity-5gp8
 https://www.youtube.com/watch?v=SHIg5UIfBnI
 https://www.youtube.com/watch?v=6tNS--WetLI
 https://edabit.com/challenge/DpFmDxcyesPfPoFMn (the task itself which had test examples)
-
-I also used ChatGPT responses to help identify errors in my code. 
+ 
